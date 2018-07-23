@@ -1,4 +1,6 @@
 # TopFinnishDevs
+Original app by https://github.com/emmanuelkehinde at https://github.com/emmanuelkehinde/top-nigerian-devs
+based on https://scotch.io/@emmanuelkehinde/learn-to-build-a-mean-stack-app-that-displays-a-list-of-top-nigerian-developers
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
